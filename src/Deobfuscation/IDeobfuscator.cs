@@ -1,0 +1,12 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace Semicolon.Cil.Deobfuscation
+{
+    public interface IDeobfuscator
+    {
+
+    }
+
+}
