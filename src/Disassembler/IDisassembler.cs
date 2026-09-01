@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Semicolon.Cil.Disassembler
+namespace CilDotNet.Disassembler
 {
-    public interface IDisassembly
+    public interface IDisassembler
     {
 
     }

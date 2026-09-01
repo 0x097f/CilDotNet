@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Semicolon.Cil.Executable
+namespace CilDotNet.Executable
 {
     public class DosHeader
     {

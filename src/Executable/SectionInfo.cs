@@ -1,4 +1,4 @@
-﻿namespace Semicolon.Cil
+﻿namespace CilDotNet.Executable
 {
     public class SectionInfo
     {

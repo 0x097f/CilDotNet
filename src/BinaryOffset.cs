@@ -1,8 +1,8 @@
-﻿using Semicolon.Cil.Executable;
+﻿using CilDotNet.Executable; 
 using System;
 using System.Collections.Generic;
 
-namespace Semicolon.Cil
+namespace CilDotNet
 {
     public readonly struct BinaryOffset : IEquatable<BinaryOffset>
     {

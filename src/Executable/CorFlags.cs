@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Semicolon.Cil.Executable
+namespace CilDotNet.Executable
 {
     /// <summary>
     /// Reference: CorHdr.h

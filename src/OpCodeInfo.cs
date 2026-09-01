@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Semicolon.Cil.Executable
+namespace Semicolon.Cil.OpCode
 {
-    public class EntryPoint
+    public class OpCodeTable
     {
+
     }
 }
